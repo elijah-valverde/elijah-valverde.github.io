@@ -5,7 +5,7 @@
 }
 
 html {
-  font-size: 18px; /* increased global base size */
+  font-size: 24px; /* ⬅️ significantly increased base size */
 }
 
 body {
@@ -19,28 +19,28 @@ body {
 
 header {
   background-color: var(--header);
-  padding: 16px 32px;
-  font-size: 1.1rem;
+  padding: 20px 40px;
+  font-size: 1.4rem;
 }
 
 nav a {
   color: white;
   text-decoration: none;
-  margin-right: 24px;
+  margin-right: 30px;
   font-weight: bold;
-  font-size: 1.1rem;
+  font-size: 1.4rem;
 }
 
 .container {
   display: flex;
   height: 100%;
-  max-width: 1100px;
+  max-width: 1400px;  /* wider layout to accommodate scaling */
   margin: 0 auto;
 }
 
 .sidebar {
   width: 40%;
-  padding: 80px 40px;
+  padding: 100px 60px;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -49,21 +49,21 @@ nav a {
 }
 
 .sidebar img {
-  width: 220px;
-  border-radius: 16px;
-  border: 5px solid #3e2b2e;
-  margin-bottom: 25px;
+  width: 280px;  /* ⬅️ significantly increased */
+  border-radius: 20px;
+  border: 6px solid #3e2b2e;
+  margin-bottom: 30px;
 }
 
 .sidebar h2 {
-  font-size: 1.8rem;
-  margin-bottom: 12px;
+  font-size: 2.2rem;
+  margin-bottom: 16px;
   font-weight: bold;
 }
 
 .sidebar p {
-  font-size: 1.05rem;
-  margin: 6px 0;
+  font-size: 1.4rem;
+  margin: 8px 0;
 }
 
 .sidebar a {
@@ -73,43 +73,50 @@ nav a {
 
 .sidebar .email {
   font-family: monospace;
-  margin-top: 12px;
+  margin-top: 14px;
 }
 
 .icons {
-  margin-top: 32px;
+  margin-top: 40px;
   display: flex;
-  gap: 24px;
+  gap: 30px;
   justify-content: center;
   align-items: center;
 }
 
 .icons img {
-  width: 30px;
-  height: 30px;
+  width: 38px;
+  height: 38px;
 }
 
 .icons .label {
   font-weight: bold;
-  font-size: 1.1rem;
+  font-size: 1.4rem;
 }
 
 .content {
   width: 60%;
-  padding: 80px 60px;
-  font-size: 1.05rem;
-  line-height: 1.8;
+  padding: 100px 80px;
+  font-size: 1.4rem;
+  line-height: 2.1;
+}
+
+h2 {
+  color: #222;
+  font-size: 2rem;
+  font-weight: bold;
+  margin-bottom: 20px;
 }
 
 .achievements {
-  padding-left: 50px;
+  padding-left: 60px;
 }
 
 .bottom-text {
   position: absolute;
-  bottom: 12px;
+  bottom: 18px;
   right: 40px;
-  font-size: 1rem;
+  font-size: 1.1rem;
   font-style: italic;
   color: #2e1f1f;
 }
