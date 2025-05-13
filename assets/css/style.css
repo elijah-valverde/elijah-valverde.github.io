@@ -5,7 +5,7 @@
 }
 
 html {
-  font-size: 24px; /* ⬅️ significantly increased base size */
+  font-size: 18px; /* 👈 Balanced scaling */
 }
 
 body {
@@ -19,28 +19,27 @@ body {
 
 header {
   background-color: var(--header);
-  padding: 20px 40px;
-  font-size: 1.4rem;
+  padding: 12px 30px;
+  font-size: 1rem;
 }
 
 nav a {
   color: white;
   text-decoration: none;
-  margin-right: 30px;
+  margin-right: 20px;
   font-weight: bold;
-  font-size: 1.4rem;
 }
 
 .container {
   display: flex;
   height: 100%;
-  max-width: 1400px;  /* wider layout to accommodate scaling */
+  max-width: 1100px;
   margin: 0 auto;
 }
 
 .sidebar {
   width: 40%;
-  padding: 100px 60px;
+  padding: 60px 30px;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -49,21 +48,21 @@ nav a {
 }
 
 .sidebar img {
-  width: 280px;  /* ⬅️ significantly increased */
-  border-radius: 20px;
-  border: 6px solid #3e2b2e;
-  margin-bottom: 30px;
+  width: 200px;  /* 👈 Reasonable image size */
+  border-radius: 12px;
+  border: 4px solid #3e2b2e;
+  margin-bottom: 20px;
 }
 
 .sidebar h2 {
-  font-size: 2.2rem;
-  margin-bottom: 16px;
+  font-size: 1.5rem;
+  margin-bottom: 10px;
   font-weight: bold;
 }
 
 .sidebar p {
-  font-size: 1.4rem;
-  margin: 8px 0;
+  font-size: 1rem;
+  margin: 5px 0;
 }
 
 .sidebar a {
@@ -73,50 +72,50 @@ nav a {
 
 .sidebar .email {
   font-family: monospace;
-  margin-top: 14px;
+  margin-top: 10px;
 }
 
 .icons {
-  margin-top: 40px;
+  margin-top: 25px;
   display: flex;
-  gap: 30px;
+  gap: 18px;
   justify-content: center;
   align-items: center;
 }
 
 .icons img {
-  width: 38px;
-  height: 38px;
+  width: 28px;
+  height: 28px;
 }
 
 .icons .label {
   font-weight: bold;
-  font-size: 1.4rem;
+  font-size: 1rem;
 }
 
 .content {
   width: 60%;
-  padding: 100px 80px;
-  font-size: 1.4rem;
-  line-height: 2.1;
+  padding: 60px;
+  font-size: 1rem;
+  line-height: 1.6;
 }
 
 h2 {
   color: #222;
-  font-size: 2rem;
+  font-size: 1.4rem;
   font-weight: bold;
-  margin-bottom: 20px;
+  margin-bottom: 16px;
 }
 
 .achievements {
-  padding-left: 60px;
+  padding-left: 30px;
 }
 
 .bottom-text {
   position: absolute;
-  bottom: 18px;
-  right: 40px;
-  font-size: 1.1rem;
+  bottom: 10px;
+  right: 30px;
+  font-size: 0.8rem;
   font-style: italic;
   color: #2e1f1f;
 }
