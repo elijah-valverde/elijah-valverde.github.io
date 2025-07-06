@@ -207,9 +207,9 @@ papertitle {
     }
 
 .image.avatar {
-  border-radius: 25%;
-  width: 225px;
-  height: 225px;
+  border-radius: 5%;
+  width: 200px;
+  height: 200px;
   overflow: hidden;
   margin: 0 auto;
   display: block;
@@ -221,7 +221,9 @@ papertitle {
   height: 100%;
   object-fit: cover;
   display: block;
-  border-radius: 25%;
+  border-radius: 5%;
+  border: 3px solid #043361; // adjust color and thickness as desired
+
 }
     #header .image.avatar {
       margin: 0 0 1em 0;
