@@ -26,8 +26,8 @@
   
   header {
     background-color: var(--header);
-    padding: 10px 20px;
-    font-size: 13px;
+    padding: 10px 40px;
+    font-size: 15px;
   }
 
   h2 {
