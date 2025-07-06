@@ -15,12 +15,12 @@
 
 <ul style="margin:0 0 20px;">
   <li><a href="https://www.computer.org/csdl/journal/tp"><autocolor> I tutor the following subjects, 
-  -Abstract Algbera
-  -Combinatorics
-  -Linear Algebra
-  -Introductory Analysis
-  -Introductory Number Theory
-  -Calculus, Algebra, etc.
-  </autocolor></a></li>
+  <li>Abstract Algbera<li>
+<li>  -Combinatorics<li>
+<li>  -Linear Algebra<li>
+<li>  -Introductory Analysis<li>
+ <li> -Introductory Number Theory <li>
+ <li> -Calculus, Algebra, etc.<li>
+ <li> </autocolor></a></li>
  
 </ul> 
