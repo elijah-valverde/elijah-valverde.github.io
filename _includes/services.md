@@ -7,8 +7,7 @@
   <li>Math 335, Modern Algebra I</li>
 </ul>
 
-<h4 style="margin:0 10px 0;">Tutorings</h4>
-<p style="margin: 0 10px 5px;">I tutor the following subjects:</p>
+<h4 style="margin:0 10px 0;">Tutoring</h4>
 <ul style="margin:0 0 20px;">
   <li>Abstract Algebra</li>
   <li>Combinatorics</li>
