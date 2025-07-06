@@ -14,5 +14,4 @@ Hi! My name is Elijah *he/they*, I am a student in San Francisco State Mathmeati
 - **[June 2025]** Independent study under advisement of [Matt Beck](https://matthbeck.github.io/420.html) on [Lattice Point Enumeration](https://matthbeck.github.io/ccd.html)
 
 {% include_relative _includes/publications.md %}
-
 {% include_relative _includes/services.md %}
