@@ -11,7 +11,7 @@ Hi! My name is Elijah *he/they*, I am a student in San Francisco State Mathmeati
 
 - **[July 2025]** Awarded the CSU-UC [Cal-Bridge](https://calbridge.org/undergraduate-program/) Fellowship
 - **[June 2025]** Awarded the CSU [Pre-Doctoral](https://fellowships.sfsu.edu/california-pre-doctoral-program) Fellowship
-- **[June 2025]** Independent study under advisement of [Matt Beck](https://matthbeck.github.io/420.html) on [Lattice Point Enumeration](https://matthbeck.github.io/ccd.html)
+- **[June 2025]** Summer study under advisement of [Matt Beck](https://matthbeck.github.io/420.html) on [Ehrhart Theory](https://matthbeck.github.io/ccd.html)
 
 {% include_relative _includes/publications.md %}
 ## Services
