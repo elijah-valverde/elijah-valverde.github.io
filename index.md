@@ -9,10 +9,10 @@ Hi! My name is Elijah *(any/all)*, I am a student in San Francisco State Mathmea
 <!--- ## Research Interests !-->
 ## Highlights
 
-- **[Aug 2025]** 🎉 Awarded the Pamela Fong Scholarship 
-- **[July 2025]** 🎉 Awarded the CSU-UC [Cal-Bridge](https://calbridge.org/undergraduate-program/) Fellowship
-- **[June 2025]** 🎉 Awarded the CSU [Pre-Doctoral](https://fellowships.sfsu.edu/california-pre-doctoral-program) Fellowship
-- **[June 2025]** 📓 Summer study under advisement of [Matt Beck](https://matthbeck.github.io/420.html)
+- **[Aug 2025]** 🎉  Awarded the Pamela Fong Scholarship 
+- **[July 2025]** 🎉  Awarded the CSU-UC [Cal-Bridge](https://calbridge.org/undergraduate-program/) Fellowship
+- **[June 2025]** 🎉  Awarded the CSU [Pre-Doctoral](https://fellowships.sfsu.edu/california-pre-doctoral-program) Fellowship
+- **[June 2025]** 📓  Summer study under advisement of [Matt Beck](https://matthbeck.github.io/420.html)
 
 {% include_relative _includes/publications.md %}
 ## Services
