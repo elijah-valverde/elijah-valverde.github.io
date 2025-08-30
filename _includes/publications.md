@@ -46,6 +46,3 @@
 <br>
 
 {% endfor %}
-
-</ol>
-</div>
