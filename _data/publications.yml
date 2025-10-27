@@ -1,12 +1,12 @@
 main:
 
-  - title: Boundary Strata in Moduli Spaces of Genus-One Curves 
+  - title: A SIGN-REVERSING INVOLUTION ON GENUS-ONE BOUNDARY STRATA
     authors: Emily Clader, Elijah Valverde
     #conference_short: MICCAI
     #conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: /assets/files/spring25_write_up.pdf
+    pdf: 
     #code: https://github.com/MrGiovanni/ContinualLearning
     #bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: /assets/img/paperteaser.png
+    image: 
     #notes: Early Accept
 
