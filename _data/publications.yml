@@ -7,6 +7,6 @@ main:
     pdf: assets/files/SignReversingInvolution.pdf
     #code: https://github.com/MrGiovanni/ContinualLearning
     #bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: assets/files/picture2.png
+    image: assets/files/picture.png
     #notes: Early Accept
 
