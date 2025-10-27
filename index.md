@@ -17,4 +17,4 @@ Hi! My name is Elijah *(any/all)*, I am a student in San Francisco State Mathmea
 
 ## Current Courses
 I am currently a TA for Math 435/735, see the canvas page [here](https://sfsu.instructure.com/courses/57581)
-</ul>
+
