@@ -6,16 +6,15 @@
   display:inline-block;
   height:2.4rem;
   width:2.4rem;
-  background-color:#586A53; /* Hello */
-  color:#586A53!important;  /* HELLO */
+  background-color:transparent;
+  color:#043361!important;
   border-radius:100%;
   text-align:center;
   font-size:1.15rem;
   line-height:2.5rem;
-  
   margin-right:1rem}
 
-@media (prefers-color-scheme: dark) { .social-icons a {color: #586A53 !important; }} /* I think this is text color */
+@media (prefers-color-scheme: dark) { .social-icons a {color: #3eb7f0 !important; }}
 
 .social-icons a:last-child{margin-right:0}.social-icons a:hover{background-color:white;
     color:black;
@@ -36,7 +35,7 @@
       }
      */
 
-@media (prefers-color-scheme: dark) {.social-icons a:last-child{margin-right:0}.social-icons a:hover{background-color:#586A53;
+@media (prefers-color-scheme: dark) {.social-icons a:last-child{margin-right:0}.social-icons a:hover{background-color:#20212b;
     color:black;
     transform: scale(1.2)} 
     /*
@@ -161,12 +160,12 @@ papertitle {
 
 @media (prefers-color-scheme: dark) {
     body {
-        background-color: ##586A53; /*test for background color change!*/
-        color: ##586A53;
+        background-color: #4C5153; /*test for background color change!*/
+        color: #dadbdf;
     }
 
     autocolor{
-      color:##586A53;
+      color:#dadbdf;
     }
 
     lightonly {
@@ -250,11 +249,11 @@ h2 {
 
 @media (prefers-color-scheme: dark) {
   h1, h3, h4, h5, h6 {
-    color:#586A53;
+    color:rgb(62, 183, 240);
   }
 
   h2 {
-    color:#586A53;
+    color:rgb(62, 183, 240);
   }
 }
 
